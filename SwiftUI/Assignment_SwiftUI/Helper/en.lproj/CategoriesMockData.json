@@ -1,0 +1,199 @@
+{
+    "categories": [
+        {
+            "name": "Fruits",
+            "items": [
+                {
+                    "name": "Apple",
+                    "imageLink": "https://images.pexels.com/photos/3746517/pexels-photo-3746517.jpeg?auto=compress&cs=tinysrgb&w=800",
+                    "description": "A sweet, crunchy fruit that comes in many varieties. Rich in fiber and vitamin C."
+                },
+                {
+                    "name": "Banana",
+                    "imageLink": "https://media.istockphoto.com/id/537527218/photo/bananas-in-a-wooden-dish-on-a-wooden-background.jpg?b=1&s=612x612&w=0&k=20&c=gB-ReTDd8lcxQV2VUMzhX9V9K3gVS4AKKkZ5BcJjBso=",
+                    "description": "A soft, creamy fruit that's high in potassium. Perfect for a quick energy boost."
+                },
+                {
+                    "name": "Orange",
+                    "imageLink": "https://images.pexels.com/photos/5945608/pexels-photo-5945608.jpeg?auto=compress&cs=tinysrgb&w=800",
+                    "description": "A juicy, tangy fruit known for its vitamin C content. Great for fresh juices and snacks."
+                },
+                {
+                    "name": "Strawberry",
+                    "imageLink": "https://images.pexels.com/photos/10150447/pexels-photo-10150447.jpeg?auto=compress&cs=tinysrgb&w=800",
+                    "description": "A red, sweet fruit with tiny seeds on the surface. Perfect for desserts and smoothies."
+                },
+                {
+                    "name": "Grapes",
+                    "imageLink": "https://media.istockphoto.com/id/1130230871/photo/bunch-of-red-and-white-grapes.jpg?b=1&s=612x612&w=0&k=20&c=dXSlCnQ7O4zawaNK5CAs-dfu2_O4056V9nNYWTaRYJg=",
+                    "description": "Small, juicy fruits that can be red, green, or purple. Great as snacks or in salads."
+                },
+                {
+                    "name": "Pineapple",
+                    "imageLink": "https://media.istockphoto.com/id/1141377960/photo/raw-pineapple-with-green-background-image.jpg?b=1&s=612x612&w=0&k=20&c=CdYNZhgvu-8bCSZhkPJPyIXQDw14-iR_9Lw37ZDtnwE=",
+                    "description": "A tropical fruit with a spiky exterior and sweet, tangy flesh. Great for desserts and drinks."
+                },
+                {
+                    "name": "Mango",
+                    "imageLink": "https://media.istockphoto.com/id/1398814319/photo/indian-mangoes-in-basket-blue-dark-background-close-up-view.jpg?b=1&s=612x612&w=0&k=20&c=jknzYopdMY4g4Q9q0AmAKoLzUwKRtQG_wRvUOhKKFWY=",
+                    "description": "A sweet and juicy tropical fruit with a smooth texture. Perfect for smoothies and desserts."
+                }
+            ]
+        },
+        {
+            "name": "Vegetables",
+            "items": [
+                {
+                    "name": "Carrot",
+                    "imageLink": "https://images.pexels.com/photos/1297252/pexels-photo-1297252.jpeg?auto=compress&cs=tinysrgb&w=800",
+                    "description": "A crunchy, sweet vegetable often used in salads and cooking. High in beta-carotene."
+                },
+                {
+                    "name": "Broccoli",
+                    "imageLink": "https://media.istockphoto.com/id/579165978/photo/broccoli.jpg?b=1&s=612x612&w=0&k=20&c=IbmHb145pkeJ_X1PM-MXV3p5S8-jabuQmrZ0IeZeA90=",
+                    "description": "A green vegetable rich in vitamins and minerals. Excellent steamed or in stir-fries."
+                },
+                {
+                    "name": "Potato",
+                    "imageLink": "https://images.unsplash.com/photo-1698505949250-51f8b2c9c8c6?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBvdGF0b3xlbnwwfHwwfHx8MA%3D%3D",
+                    "description": "A versatile starchy vegetable that can be baked, fried, or mashed. A staple in many cuisines."
+                },
+                {
+                    "name": "Spinach",
+                    "imageLink": "https://media.istockphoto.com/id/1128988836/photo/bunch-of-green-fresh-organic-spinach-leaves.jpg?b=1&s=612x612&w=0&k=20&c=Pp5oGTKJtYL8TXoxIV5-fs9mDaO-8Vm2REYFXelzRIM=",
+                    "description": "A leafy green vegetable high in iron and vitamins. Great for salads, smoothies, and cooking."
+                },
+                {
+                    "name": "Tomato",
+                    "imageLink": "https://media.istockphoto.com/id/171579643/photo/tomato-greenhouse.jpg?b=1&s=612x612&w=0&k=20&c=tIMKrDv_TlJrHCCjNunZlx7ZPvhgarA5haLWbPNUs_s=",
+                    "description": "A juicy, red fruit often used as a vegetable in cooking. Essential for sauces and salads."
+                },
+                {
+                    "name": "Cucumber",
+                    "imageLink": "https://media.istockphoto.com/id/470216836/photo/cucumber.jpg?b=1&s=612x612&w=0&k=20&c=wIjBzEcAQzo8lhn6p7I_uc48zczIKZIHNsBRdF3CD_g=",
+                    "description": "A crisp, refreshing vegetable often used in salads. Low in calories and high in water content."
+                },
+                {
+                    "name": "Garlic",
+                    "imageLink": "https://media.istockphoto.com/id/1327658738/photo/garlic-in-a-wooden-bowl-on-black-background.jpg?b=1&s=612x612&w=0&k=20&c=0GdPc_O57rTN3YZVeqAQh4MvY4zVDuVXPR_v43CPOeA=",
+                    "description": "A strong-flavored vegetable used in cooking for its distinctive taste. Also known for health benefits."
+                }
+            ]
+        },
+        {
+            "name": "Electronics",
+            "items": [
+                {
+                    "name": "Laptop",
+                    "imageLink": "https://images.pexels.com/photos/211856/pexels-photo-211856.jpeg?auto=compress&cs=tinysrgb&w=800",
+                    "description": "A portable computer suitable for various tasks. Ideal for work, study, and entertainment."
+                },
+                {
+                    "name": "Smartphone",
+                    "imageLink": "https://images.pexels.com/photos/947407/pexels-photo-947407.jpeg?auto=compress&cs=tinysrgb&w=800",
+                    "description": "A handheld device for communication, internet access, and apps. Essential for modern life."
+                },
+                {
+                    "name": "Tablet",
+                    "imageLink": "https://images.pexels.com/photos/18205642/pexels-photo-18205642/free-photo-of-a-gray-apple-ipad-pro.jpeg?auto=compress&cs=tinysrgb&w=800",
+                    "description": "A portable touchscreen device ideal for browsing, reading, and entertainment."
+                },
+                {
+                    "name": "Smartwatch",
+                    "imageLink": "https://media.istockphoto.com/id/1286099765/photo/close-up-of-hand-touching-smartwatch-with-health-app-on-the-screen-gadget-for-fitness-active.jpg?b=1&s=612x612&w=0&k=20&c=hKXlT2CZiC0TcrpR6yiiBA9yDGZft2nAt3iw88G2s7I=",
+                    "description": "A wearable device that tracks fitness, receives notifications, and more. Syncs with smartphones."
+                },
+                {
+                    "name": "Camera",
+                    "imageLink": "https://images.pexels.com/photos/1203803/pexels-photo-1203803.jpeg?auto=compress&cs=tinysrgb&w=800",
+                    "description": "A device for capturing photos and videos. Available in digital, DSLR, and mirrorless models."
+                },
+                {
+                    "name": "Headphones",
+                    "imageLink": "https://images.pexels.com/photos/164710/pexels-photo-164710.jpeg?auto=compress&cs=tinysrgb&w=800",
+                    "description": "An audio device worn over the ears for listening to music and audio. Available in wired and wireless."
+                },
+                {
+                    "name": "Speaker",
+                    "imageLink": "https://images.pexels.com/photos/1034651/pexels-photo-1034651.jpeg?auto=compress&cs=tinysrgb&w=800",
+                    "description": "A device that outputs sound from electronic devices. Available in portable and home models."
+                }
+            ]
+        },
+        {
+            "name": "Books",
+            "items": [
+                {
+                    "name": "To Kill a Mockingbird",
+                    "imageLink": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
+                    "description": "A novel by Harper Lee. A classic of modern American literature, dealing with serious issues."
+                },
+                {
+                    "name": "The Great Gatsby",
+                    "imageLink": "https://m.media-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_FMjpg_UX1000_.jpg",
+                    "description": "A novel by F. Scott Fitzgerald. A tale of wealth, love, and the American Dream in the 1920s."
+                },
+                {
+                    "name": "Pride and Prejudice",
+                    "imageLink": "https://m.media-amazon.com/images/M/MV5BMDM0MjFlOGYtNTg2ZC00MmRkLTg5OTQtM2U5ZjUyYTgxZThiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+                    "description": "A novel by Jane Austen. A romantic story that also critiques the British class system."
+                },
+                {
+                    "name": "Moby-Dick",
+                    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Moby_Dick_p510_illustration.jpg",
+                    "description": "A novel by Herman Melville. The epic tale of a captain’s obsession with a great white whale."
+                },
+                {
+                    "name": "War and Peace",
+                    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg/640px-Tolstoy_-_War_and_Peace_-_first_edition%2C_1869.jpg",
+                    "description": "A novel by Leo Tolstoy. A sweeping epic about Russian society during the Napoleonic era."
+                }
+            ]
+        },
+        {
+            "name": "Clothing",
+            "items": [
+                {
+                    "name": "T-Shirt",
+                    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_Tshirt.jpg/220px-Blue_Tshirt.jpg",
+                    "description": "A casual top worn by men and women. Available in various colors and designs."
+                },
+                {
+                    "name": "Jeans",
+                    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Jeans.jpg",
+                    "description": "Denim pants that are a staple in casual wear. Available in various fits and washes."
+                },
+                {
+                    "name": "Jacket",
+                    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leather_Jacket_%2851011162080%29.jpg/240px-Leather_Jacket_%2851011162080%29.jpg",
+                    "description": "An outerwear piece worn for warmth and style. Available in various materials and designs."
+                },
+                {
+                    "name": "Dress",
+                    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Afternoon_ensemble_MET_63.212a-b_CP4.jpg/207px-Afternoon_ensemble_MET_63.212a-b_CP4.jpg",
+                    "description": "A one-piece garment for women. Suitable for casual and formal occasions."
+                },
+                {
+                    "name": "Sweater",
+                    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jersei-coll-alt.jpg/170px-Jersei-coll-alt.jpg",
+                    "description": "A knitted garment worn for warmth. Available in various styles and colors."
+                },
+                {
+                    "name": "Shirt",
+                    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Camisade_pu%C3%B1o_doble.jpg/1200px-Camisade_pu%C3%B1o_doble.jpg",
+                    "description": "A formal or casual top with a collar and buttons. Suitable for work and casual wear."
+                },
+                {
+                    "name": "Coat",
+                    "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEmahzLMa8xPYAS1Ft5cm6Cqn1L6vDZ1RyOg&s",
+                    "description": "A heavy garment worn for warmth. Available in various styles and materials."
+                },
+                {
+                    "name": "Shoes",
+                    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/0/02/Air_jordan_XI_space_jam.jpg",
+                    "description": "Footwear available in various styles. Suitable for casual, formal, and athletic use."
+                }
+            ]
+        }
+    ]
+}
